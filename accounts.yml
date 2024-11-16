@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local 16-11-2024 "
+  message: "Welcome to EazyBank accounts related local 16-11-2024 V1.0 "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
